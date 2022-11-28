@@ -1,5 +1,5 @@
-###### Max Matkovski
-###### Software Engineer, Data Scientist
+## Max Matkovski
+### Software Engineer, Data Scientist
 
 Industries of interest: Climate Tech, Financial Technology
 Roles I've had: Data Scientist, Data Engineer, Software Engineer, Data Analyst
