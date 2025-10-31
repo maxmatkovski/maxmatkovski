@@ -19,10 +19,10 @@ I’m especially interested in how **applied AI** can strengthen cybersecurity, 
 ---
 
 ### 🧠 Featured Projects
-- [🚨 AI Phishing Detector]([https://github.com/maxmatkovski/AI-Phishing-Detector](https://github.com/maxmatkovski/Cyber-Automation))
+ #### 🌍 [🚨 AI Phishing Detector](https://github.com/maxmatkovski/AI-Phishing-Detector](https://github.com/maxmatkovski/Cyber-Automation)
   - Claude 4 + MCP | Gmail API | VirusTotal | n8n orchestration
 
- ### 🌍 [NLP Climate Change Sentiment Analysis](https://maxmatkovski.github.io/NLP)
+ #### 🌍 [NLP Climate Change Sentiment Analysis](https://maxmatkovski.github.io/NLP)
 **End-to-end NLP pipeline** analyzing 100,000 tweets on climate change using **BERT**.  
 - Data scraped with `snscrape` and cleaned with regex + NLTK  
 - Tokenized, visualized, and classified with a multilingual BERT sentiment model  
