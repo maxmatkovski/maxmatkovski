@@ -41,3 +41,17 @@ Compared imputation and balancing techniques to identify key chemical predictors
 #### 🃏 [Monte Carlo Simulation of Blackjack](https://github.com/maxmatkovski/Monte-Carlo-Blackjack)  
 Simulated 1M Blackjack games to find optimal hit strategies via **Monte Carlo methods** in Python.  
 Visualized player/dealer distributions and found hitting on 15–16 yields the most balanced win rates.
+
+## 🧾 Professional Experience Summary
+
+Results-driven **AI/ML Engineer and Product-Focused Technologist** with hands-on experience spanning **machine learning, data engineering, and full-stack development** across high-growth startups, enterprise environments, and applied research labs. Demonstrated ability to **design, deploy, and operationalize intelligent systems** that bridge the gap between advanced AI methods and real-world business applications.
+
+Over the past several years, I’ve **led applied machine learning integrations**, architected **data pipelines for production systems**, and delivered **AI-powered product features** used in commercial software. My work consistently blends **technical depth with product intuition**, focusing on solutions that scale efficiently and drive measurable business outcomes.
+
+Key highlights include:
+- Developing end-to-end ML pipelines, ASR systems, and data workflows in **Python**, **AWS**, and **n8n**  
+- Integrating **foundation models (Claude, Whisper)** into production systems for automation and analysis  
+- Managing cross-functional collaboration between **engineering, product, and data teams** to deploy ML-driven features  
+- Building and optimizing real-time **ETL**, **data visualization**, and **model evaluation pipelines**  
+- Contributing to projects spanning **cybersecurity**, **telecommunications**, **mobility**, and **biomedical research**
+
