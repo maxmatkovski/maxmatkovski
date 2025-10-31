@@ -44,13 +44,15 @@ Visualized player/dealer distributions and found hitting on 15–16 yields the m
 
 ## 🧾 Professional Experience Summary
 
-Results-driven **AI/ML Engineer and Product-Focused Technologist** with hands-on experience spanning **machine learning, data engineering, and full-stack development** across high-growth startups, enterprise environments, and applied research labs. Demonstrated ability to **design, deploy, and operationalize intelligent systems** that bridge the gap between advanced AI methods and real-world business applications.
+AI/ML Engineer and product-minded technologist with experience across **machine learning, data engineering, and full-stack development** in startups, enterprise environments, and research labs. I design and build systems that turn data into intelligent, scalable products.
 
-Over the past several years, I’ve **led applied machine learning integrations**, architected **data pipelines for production systems**, and delivered **AI-powered product features** used in commercial software. My work consistently blends **technical depth with product intuition**, focusing on solutions that scale efficiently and drive measurable business outcomes.
+I’ve helped teams **integrate advanced AI models**, **automate data workflows**, and **deploy ML-driven features** used in real-world applications. My work bridges technical depth with business impact — from developing ML pipelines to collaborating with product and engineering teams on AI solutions.
 
-Key highlights include:
-- Developing end-to-end ML pipelines, ASR systems, and data workflows in **Python**, **AWS**, and **n8n**  
-- Integrating **foundation models (Claude, Whisper)** into production systems for automation and analysis  
+**Highlights**
+- Built and deployed **end-to-end ML and data pipelines** in Python, AWS, and n8n  
+- Integrated **foundation models** (Claude, Whisper) for automation and speech analysis  
+- Led applied ML efforts in **cybersecurity**, **mobility**, and **telecommunications**  
+- Delivered projects combining **machine learning, cloud systems, and data visualization**
 - Managing cross-functional collaboration between **engineering, product, and data teams** to deploy ML-driven features  
 - Building and optimizing real-time **ETL**, **data visualization**, and **model evaluation pipelines**  
 - Contributing to projects spanning **cybersecurity**, **telecommunications**, **mobility**, and **biomedical research**
