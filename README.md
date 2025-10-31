@@ -24,32 +24,6 @@ I’m especially interested in how **applied AI** can strengthen cybersecurity, 
 
 ---
 
-# 👋 Hi, I’m Max Matkovski
-
-🚀 **AI/ML Engineer | Cybersecurity | Product-Minded Technologist**
-
-I build and operationalize intelligent systems that connect **machine learning, security, and business impact**.  
-I’m especially interested in how **applied AI** can strengthen cybersecurity, automate analysis, and improve decision-making.
-
----
-
-## 🧩 About Me
-
-- 🎓 **M.S. in Computer Science (AI/ML)** — *Georgia Institute of Technology*  
-- 🎓 **B.S. in Cognitive Science / Computer Science** — *UCLA*  
-  • Coursework at **UCLA Anderson School of Management** (Finance & Strategy)  
-- 🌍 Born in **Tel Aviv**, raised in **California** — bridging Israeli innovation with global markets  
-- 🗣️ Speak **English (native)**, **Hebrew**, **Portuguese**, **Russian**, **Spanish**, **Farsi**, and **Italian**  
-- 💬 Passionate about **AI-driven cybersecurity**, **intelligent automation**, and **international tech ecosystems**
-
----
-
-## 🌍 Connect
-
-[💼 LinkedIn](https://linkedin.com/in/maxmatkovski) | [📧 Email](mailto:maxmatkovski@gmail.com)
-
----
-
 ## 🧠 Featured Projects
 
 #### 🚨 [AI Phishing Detector](https://medium.com/@maxmatkovski/ai-phishing-detector-autonomous-agent-via-claude-4-and-mcp-model-context-protocol-3f0df1b7edef)  
@@ -67,5 +41,3 @@ Compared imputation and balancing techniques to identify key chemical predictors
 #### 🃏 [Monte Carlo Simulation of Blackjack](https://github.com/maxmatkovski/Monte-Carlo-Blackjack)  
 Simulated 1M Blackjack games to find optimal hit strategies via **Monte Carlo methods** in Python.  
 Visualized player/dealer distributions and found hitting on 15–16 yields the most balanced win rates.
-
-
