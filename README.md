@@ -38,7 +38,7 @@ Revealed polarization in climate discourse through data cleaning, tokenization, 
 Classified water as potable vs. non-potable using **Decision Trees** and **Random Forests** on Kaggle data.  
 Compared imputation and balancing techniques to identify key chemical predictors of potability.
 
-#### 🃏 [Monte Carlo Simulation of Blackjack](https://github.com/maxmatkovski/Monte-Carlo-Blackjack)  
+#### 🃏 [Monte Carlo Simulation of Blackjack](https://github.com/maxmatkovski/Monte-Carlo-Simulation)  
 Simulated 1M Blackjack games to find optimal hit strategies via **Monte Carlo methods** in Python.  
 Visualized player/dealer distributions and found hitting on 15–16 yields the most balanced win rates.
 
